@@ -1,0 +1,9 @@
+# React (JavaScript and JSX)
+*.jsx linguist-language=JavaScript
+*.js linguist-language=JavaScript
+
+# Tailwind CSS (included in CSS files)
+*.css linguist-language=CSS
+
+# JSON configuration files for Firebase
+*.json linguist-language=JSON
