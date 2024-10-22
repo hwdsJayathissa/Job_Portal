@@ -14,21 +14,6 @@ A fully-featured job portal application built with **ReactJS**, **Tailwind CSS**
 - **Frontend**: ReactJS
 - **Styling**: Tailwind CSS
 - **Backend**: Firebase Firestore (for job data storage)
-  
-📂 Project Structure
-src/
-├── components/       # Reusable UI components (e.g., JobCard, Navbar, etc.)
-├── firebase.config.js # Firebase initialization
-├── App.js            # Main application file
-└── index.js          # Entry point for React
 
-🤝 Contributions
-Contributions, issues, and feature requests are welcome!
-
-Fork this project.
-Create a new branch (git checkout -b feature/YourFeature).
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/YourFeature).
-Open a pull request.
 
 
