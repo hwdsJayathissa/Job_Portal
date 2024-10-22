@@ -1,6 +1,6 @@
 # Job Portal
 
-A job portal application built using **Vite**, **React**, **Tailwind CSS**, and **Firebase**. The app enables job seekers to search for job opportunities, while employers can post and manage their listings.
+A job portal application built using **Vite**, **React**, **Tailwind CSS**, and **Firebase**. 
 
 ## Available Scripts
 
